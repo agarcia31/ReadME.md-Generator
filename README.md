@@ -5,7 +5,7 @@
 # ReadME Generator
   ## License:
   None of the above
-    ### Table of Contents
+  ### Table of Contents
       1. [Description](#description)
       2. [Installation](#installation)
       3. [Usage](#usage)
